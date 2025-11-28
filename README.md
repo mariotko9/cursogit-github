@@ -7,3 +7,5 @@ Este repositório teste/estudo é muito importante para entendimento do fluxo gi
 
 O Site possui estilização css e script js.
 -------------------------------------------------------------------------------------------------------
+Alterando o README!
+
